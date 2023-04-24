@@ -1,4 +1,4 @@
-# Growth Storming
+# Crowd Storming
 
 ![Visual]()
 
