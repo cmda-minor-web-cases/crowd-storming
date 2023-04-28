@@ -52,5 +52,13 @@ De data  is opgeslagen in Strapi en benaderbaar via een API.
 ## Planning
 In de eerste week van de meesterproef is een briefing met de opdrachtgever en begeleiders. Wekelijks wordt aan de opdrachtgever een prototype gedemonstreerd en de volgende stappen besproken. Tussentijds kunnen via Teams vragen gesteld worden.
 
+Als agile studententeam krijgen jullie begeleiding van:
+
+_Anneloes van Gaalen_ is producer,schrijver, branding en PR specialist. Bijna alle teksten en artikelen op de TIOC zijn door haar geschreven of bewerkt. Daarnaast is ze ook verantwoordelijk voor het editorial design en de PR en branding van het platform.
+
+_Nauko Leong_ is verantwoordelijk voor de UX en concept en new business development van het TIOC platform. Nauko is tevens UX lead bij Nationale Nederlanden.
+
+_Bart-Jan Steerenberg_ is verantwoordelijk voor concept en design van TIOC. Daarnaast is hij (audio/visual/experience)design docent en learning experience designer bij CMD en doet sinds enkele jaren onderzoek naar creativiteit.
+
 ## Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
