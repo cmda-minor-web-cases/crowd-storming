@@ -11,9 +11,9 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-TIOC, The Institute of Creativity heeft een platform ontwikkeld waar creatieve groei centraal staat. Er staan artikelen over creativiteit met uiteenlopende experts, ontwerpers en kunstenaars. Studenten en (Young) professionals kunnen zich inschrijven om van elkaar te leren. (Hoe werk je? Hoe ziet jouw creatieve proces eruit? En aan welke school-, projecten heb je al gewerkt?)
+TIOC, The Institute of Creativity heeft een platform ontwikkeld waar creatieve groei centraal staat. Er staan artikelen over creativiteit met uiteenlopende experts, ontwerpers en kunstenaars. Studenten en (Young) professionals kunnen zich inschrijven om van elkaar te leren. (Hoe werk je? Hoe ziet jouw creatieve proces eruit? En aan welke school-, projecten heb je al gewerkt?).
 
-Het gaat om het inzichtelijk maken van je ‘creative act’, en niet zo zeer om het eindresultaat. Binnen het platform willen we ook creatieve challenges uit gaan zetten zodat bedrijven en organisaties hulp van studenten en (young) professionals kunnen vragen voor challenges of tomorrow. (
+Het gaat om het inzichtelijk maken van je ‘creative act’, en niet zo zeer om het eindresultaat. Binnen het platform willen we ook creatieve challenges uit gaan zetten zodat bedrijven en organisaties hulp van studenten en (young) professionals kunnen vragen voor challenges of tomorrow. 
 
 Het moet een internationaal platform worden waar studenten van heel de wereld van verschillende scholen van elkaar kunnen leren. Waardoor ook studentenwerk en (school)projecten zichtbaar worden. Daarnaast wil TIOC ook evenementen en workshops organiseren om het belang van creativiteit en het faciliteren van creativiteit onder de aandacht te brengen.
 
